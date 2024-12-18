@@ -17,16 +17,28 @@ copyright @navidbinahmed 2023
 5. Install Docker Desktop with supporting tools (WSL 2)
 6. Pushed the repo to Git CLI (and Docker)
     i. Configuaration commands:
-         git config --global user.name (Navid Bin Ahmed)
-         git config --global user.email (******)
-    ii. used commands
+       ```
+       git config --global user.name (Navid Bin Ahmed)
+       ```
+       ```
+       git config --global user.email (******)
+       ```
+   
+    ii. used commands:
+         ```
          git add <file name>
+         
          git add . (adds all files)
+         ```
+         ```
          git commit -m "message"
-         git push origin <branch name> master
-         
+         ```
+         ```
+         git push origin <branch name> master or main
+         ```
+         ```
          git status
-         
+         ```
 
 ## tools and tech used
 [![](https://skillicons.dev/icons?i=python,pytorch,docker&theme=dark)](https://skillicons.dev)

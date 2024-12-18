@@ -1,3 +1,5 @@
+## CNN-based image detection AI web app
+
 # Overview
 This repository contains a CNN-based image detection system.
 The system recognises the object in an image uploaded by the user.

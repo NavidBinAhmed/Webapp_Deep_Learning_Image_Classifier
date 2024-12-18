@@ -1,13 +1,27 @@
-## CNN-based image detection AI web app
+# CNN-based image detection AI web app
 
-# Overview
+## Overview
 This repository contains a CNN-based image detection system.
 The system recognises the object in an image uploaded by the user.
 
 copyright @navidbinahmed 2023
 
 
-## steps 
+## Tools and tech used
+[![](https://skillicons.dev/icons?i=python,pytorch,docker&theme=dark)](https://skillicons.dev)
+1. Jupyter Notebook & Anaconda
+2. VS Code
+3. Docker
+4. WSL 2
+5. GitHub
+6. Git CLI
+7. Python v3.9
+8. Flask
+9. HTML
+10. CSS
+
+
+## Steps for implementation
 1. Created a new conda environment (imageclassifier)
 2. Downloaded dataset
 3. Model Building
@@ -44,29 +58,12 @@ copyright @navidbinahmed 2023
          git status
          ```
 
-## tools and tech used
-[![](https://skillicons.dev/icons?i=python,pytorch,docker&theme=dark)](https://skillicons.dev)
-1. Jupyter Notebook & Anaconda
-2. VS Code
-3. Docker Desktop
-4. WSL 2
-5. GitHub
-6. Git CLI
-
-## Programming languages used
-1. Python, v3.9
-2. Python Flask Framwork
-3. HTML customised
-4. CSS customised
-    
 ## Demo Output:
 1. image 1
     ![image](https://user-images.githubusercontent.com/45857107/208315378-f96cb20c-5026-4c5b-aaa6-a3c7c5731b0b.png)
     
 2. Image 2
     ![image](https://user-images.githubusercontent.com/45857107/208315404-2d1ec7d8-4e16-4430-83dc-979749970527.png)
-
-
 
 
    .....................................

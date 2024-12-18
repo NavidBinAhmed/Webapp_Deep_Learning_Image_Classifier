@@ -10,8 +10,7 @@
 - [Steps for implementation](#steps-for-implementation)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Demo Output](#demo-output)
-- [Demo Link](#demo-link)
+- [Demo](#demo)
 - [Contributing](#contributing)
 - [License](#license)
 - [Contact](#contact)
@@ -121,19 +120,22 @@ To get a local copy up and running, follow these simple steps.
 3. Click the "Predict" button to get the classification result.
 4. The application will display the predicted category along with the confidence score.
 
-## Demo Output:
+## Demo 
+### Link
+Check out the live demo of the application [here](http://your-demo-url.com). <!-- Replace with the actual URL of your live demo -->
+
+### Expected Output
 1. image 1
     ![image](https://user-images.githubusercontent.com/45857107/208315378-f96cb20c-5026-4c5b-aaa6-a3c7c5731b0b.png)
     
 2. Image 2
     ![image](https://user-images.githubusercontent.com/45857107/208315404-2d1ec7d8-4e16-4430-83dc-979749970527.png)
-   
-## Demo Link:
-Check out the live demo of the application [here](http://your-demo-url.com). <!-- Replace with the actual URL of your live demo -->
 
+   Application in action (to be updated):
+   
 ![Demo GIF](https://path_to_demo_gif) <!-- Replace with a GIF showing the application in action -->
 
-## Contributing
+## How to Contribute
 Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
 1. Fork the Project
@@ -146,5 +148,4 @@ Contributions are what make the open-source community such an amazing place to l
 Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
-- **Navid Bin Ahmed** - [GitHub](https://github.com/NavidBinAhmed)
-- **Email**: navid_bin_ahmed@yahoo.com <!-- Replace with your actual email -->
+- **Email**: navid_bin_ahmed@yahoo.com

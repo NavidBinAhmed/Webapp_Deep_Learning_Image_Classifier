@@ -17,6 +17,7 @@ copyright @navidbinahmed 2023
 5. Install Docker Desktop with supporting tools (WSL 2)
 6. Pushed the repo to Git CLI (and Docker)
     i. Configuaration commands:
+   
        ```
        git config --global user.name (Navid Bin Ahmed)
        ```

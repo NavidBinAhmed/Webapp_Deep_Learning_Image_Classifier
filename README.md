@@ -1,4 +1,11 @@
 # CNN-based deep learning image classifier AI webapp
+Overview
+The **Deep Learning Image Classifier AI Webapp** is a web application that uses a deep learning model to classify images into various categories. This project leverages a ResNet50 neural network, pre-trained on the ImageNet dataset, to accurately identify and classify images. The system recognises the object in an image uploaded by the user.
+
+copyright @navidbinahmed 2023
+
+![Illustration](https://path_to_illustration_image) <!-- Replace with an illustration related to your project -->
+
 
 ![Project Logo](https://path_to_your_logo_image) <!-- to be replaced with the actual path to the project logo -->
 
@@ -14,14 +21,6 @@
 - [Contributing](#contributing)
 - [License](#license)
 - [Contact](#contact)
-
-
-## Project Overview
-![Illustration](https://path_to_illustration_image) <!-- Replace with an illustration related to your project -->
-
-The **Deep Learning Image Classifier AI Webapp** is a web application that uses a deep learning model to classify images into various categories. This project leverages a ResNet50 neural network, pre-trained on the ImageNet dataset, to accurately identify and classify images. The system recognises the object in an image uploaded by the user.
-
-copyright @navidbinahmed 2023
 
 
 ## Tools and tech used

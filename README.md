@@ -10,18 +10,18 @@ copyright @navidbinahmed 2023
 
 ## Table of Contents
 - [Project Overview](#project-overview)
-- [Tools and tech used](#tools-and-tech-used)
+- [Tools and Tech Used](#tools-and-tech-used)
 - [Features](#features)
-- [Steps for implementation](#steps-for-implementation)
+- [Steps for Implementation](#steps-for-implementation)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Demo](#demo)
-- [Contributing](#contributing)
+- [How to Contribute](#How-to-contribute)
 - [License](#license)
 - [Contact](#contact)
 
 
-## Tools and tech used
+## Tools and Tech Used
 
 ### Key Tools
 [![](https://skillicons.dev/icons?i=python,pytorch,docker&theme=dark)](https://skillicons.dev)
@@ -44,7 +44,7 @@ copyright @navidbinahmed 2023
 - **Visual Feedback**: Display of the classified category along with confidence scores.
 - **User-Friendly Interface**: Simple and intuitive UI.
 
-## Steps for implementation
+## Steps for Implementation
 1. Created a new conda environment (imageclassifier)
 2. Downloaded dataset
 3. Model Building
